@@ -1,0 +1,33 @@
+/* 
+  SBLocalization.strings
+  iNews
+
+  Created by Sanjay Bhanagade on 05/07/24.
+  
+*/
+
+"OK" = "OK";
+"AppName" = "iNews";
+"EnableLocation" = "Please enable location permission";
+"Application Initialising" = "Application Initialising";
+"Bad request" = "Bad request";
+"Unable to decode" = "Unable to decode";
+"Invalid Response" = "Invalid Response";
+"year before" = "year before";
+"years before" = "years before";
+"month before" = "month before";
+"months before" = "months before";
+"day before" = "day before";
+"days before" = "days before";
+"hour" = "hour";
+"hours" = "hours";
+"min" = "min";
+"mins" = "mins";
+"second" = "second";
+"seconds" = "seconds";
+"Articles not available" = "Articles not available";
+"Internet connection not available" = "Internet connection not available";
+"Home" = "Home";
+"Detail Article" = "Detail Article";
+"Loading Articles" = "Loading Articles";
+"Pull to refresh" = "Pull to refresh";
